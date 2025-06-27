@@ -29,7 +29,7 @@
 #### Installation
 Some simple steps to get started:
 ```bash
-git clone https://github.com/luminati-io/LinkedIn-Scraper.git
+git clone https://github.com/anuragraturi114/ScrapeHire
 cd ScrapeHire
 pip install -r requirements.txt
 ```
