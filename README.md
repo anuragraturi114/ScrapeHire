@@ -1,6 +1,6 @@
 # ScrapeHire
 
-**ScrapeHire** is a simple and elegant web application that scrapes job listings directly from LinkedIn using job title and location inputs — and lets users instantly download the results as a CSV.
+**ScrapeHire** (LeadGen Scraper)is a simple and elegant web application that scrapes job listings directly from LinkedIn using job title and location inputs — and lets users instantly download the results as a CSV.
 
 ---
 
